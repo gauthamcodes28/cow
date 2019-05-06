@@ -1,10 +1,6 @@
 <!doctype html>
 
 <script>
-/*
-
-*/
-
 
 /* function getCookie(cname) {
 
